@@ -1,0 +1,35 @@
+@import "about.css";
+@import "body.css";
+@import "contact.css";
+@import "footer.css";
+@import "header.css";
+@import "resume.css";
+@import "projects.css";
+
+html {
+    scroll-behavior: smooth;
+    background-color: black;
+    background-image: url('../assets/xmastrees.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;  
+}
+
+.custom-hr {
+    width: 100%;
+    border-width: 5px;
+    border-color: darkgrey;
+    border-style: double;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+.section-h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+}
+
+.content-containers {
+    background-color: white;
+}

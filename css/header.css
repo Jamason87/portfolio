@@ -1,0 +1,44 @@
+.headshot {
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid;
+    width: 150px;
+}
+
+.bg-landing {
+    /* The image used */
+    background-image: url("../assets/trees.jpg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;  
+  }
+
+  .name {
+    color: black;
+    width: 100%;
+    text-align: center;
+    font-size: 72px;
+    font-family: 'Rubik', sans-serif;
+    margin-bottom: 0px;
+    text-shadow: 0 0 5px white;
+    height: 90px;
+  }
+
+  .name-jr {
+    color: black;
+    width: 100%;
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Rubik', sans-serif;
+    text-shadow: 0 0 5px white;
+  }
+
+  .navbar-cus {
+    background-color: black!important;
+  }

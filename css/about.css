@@ -1,0 +1,23 @@
+.my-sidebar {
+    -ms-flex: 0 0 230px;
+    flex: 0 0 230px;
+}
+
+.aboutMeImage {
+    width: 230px;
+    border-radius: 5px;
+    margin: 10px;
+    border: 2px solid;
+}
+
+.imageDesc {
+    color: gray;
+    text-align: center;
+    width: 100%;
+    font-size: 10px;
+}
+
+.about-container {
+    padding: 100px;
+    background-color: white;
+}

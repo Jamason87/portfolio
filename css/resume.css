@@ -1,0 +1,26 @@
+.bg-resume {
+    /* The image used */
+    /* background-image: url("../assets/trees2.jpg"); */
+    /* background-color: rgb(99, 99, 99); */
+    background-color: linear-gradient(to right, black, white, white, white, black);
+  
+    /* Full height */
+    height: 300px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;  
+  }
+
+.resume-text {
+  color: white;
+  text-shadow: 3px 3px black;
+  margin-bottom: 30px;
+}
+
+
+.resume-button {
+  
+}
